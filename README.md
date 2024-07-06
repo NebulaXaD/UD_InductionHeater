@@ -34,3 +34,5 @@ If you have a big bus capacitor (>3300uF or similar that can handle your input c
 [Good resource on making bridged without pcbs](https://highvoltageforum.net/index.php?topic=1324.0)
 
 ![SCHEM](https://github.com/NebulaXaD/UD_InductionHeater/blob/main/pics/schematic.png)
+
+If you have any additional questions, suggestions i should add or just wanna share your progress, feel free to dm me on discord (same username as here).
