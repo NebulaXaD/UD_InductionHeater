@@ -31,4 +31,6 @@ For the igbts, make sure they are 650V or higher rated (in reality you won't rea
 
 If you have a big bus capacitor (>3300uF or similar that can handle your input current) just slap it on there and youre good, but if not, this circuit doesn't necessarily need one, so if you want to save a bit (and improve your power factor), you can just put a bank of film caps barely large enough that the voltage doesn't drop to exactly zero (around 20-50uF should be enough, just make sure they can handle the input ripple current).
 
+[Good resource on making bridged without pcbs](https://highvoltageforum.net/index.php?topic=1324.0)
+
 ![SCHEM](https://github.com/NebulaXaD/UD_InductionHeater/blob/main/pics/schematic.png)
