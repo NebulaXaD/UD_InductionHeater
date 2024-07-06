@@ -7,6 +7,8 @@ REALLY IMPORTANT: if you can, try not to run this (or any powerful induction hea
 
 Still important: unless you really know what you are doing, and know how to troubleshoot, try to get all transformer cores and semiconductors only from reputable sources because these are really commonly fakes and they can easily ruin your entire setup.
 
+Also important: it is really advisable to test the circuit on lower voltages until you are sure it's working perfectly, this will save you a lot of money on dumb mistakes. Having an oscilloscope is helpful, but it's definitely doable (altho might be challenging) without it.
+
 ------------
 
 Pretty much any universal tesla coil driver will work for these (even premade ud1.3 copies on ali/ebay you can get for cheap ~$20), only reason I used ud2.7 is because I had spares on hand.
