@@ -11,7 +11,7 @@ Also important: it is really advisable to test the circuit on lower voltages unt
 
 ------------
 
-Pretty much any universal tesla coil driver will work for these (even premade ud1.3 copies on ali/ebay you can get for cheap ~$20), only reason I used ud2.7 is because I had spares on hand.
+Pretty much any universal tesla coil driver will work for these (even premade ud1.3 copies on ali/ebay you can get for cheap ~$20), only reason I used ud2.7 is because I had spares on hand. [More detailed breakdown of the driver](https://www.loneoceans.com/labs/ud27/)
 
 For the gate drive transformer don't just use any old toroids you find, but there are quite a few materials that will work out: N30, N87, 75, 77... It's important that it's properly wound and polarity of the secondaries is crucial to get right, otherwise your bridge will be constantly shorted (read as VERY BAD). [A good tutorial on how to properly wind them can be found here](https://www.youtube.com/watch?v=ahb5woa-AW8)
 
