@@ -29,9 +29,9 @@ For the igbts, make sure they are 650V or higher rated (in reality you won't rea
 
 35A - 50A full bridge rectifiers can be found for really cheap from official sellers and you can't go wrong with these, but again, just make sure to add a heatsink so it doesn't overheat.
 
-If you have a big bus capacitor (>3300uF or similar that can handle your input current) just slap it on there and youre good, but if not, this circuit doesn't necessarily need one, so if you want to save a bit (and improve your power factor), you can just put a bank of film caps barely large enough that the voltage doesn't drop to exactly zero (around 20-50uF should be enough, just make sure they can handle the input ripple current).
+If you have a big bus capacitor (>3300uF or similar that can handle your input current) just slap it on there and youre good, but if not, this circuit doesn't necessarily need one, so if you want to save a bit (and improve your power factor), you can just put a bank of film caps barely large enough that the voltage doesn't drop to exactly zero (around 20-50uF should be enough, just make sure they can handle the input ripple current). Putting some film caps across the bus (1-2uF, ideally as low ESL as you can obtain), as close to the igbts as possible, is favorable to absorb some spikes.
 
-[Good resource on making bridged without pcbs](https://highvoltageforum.net/index.php?topic=1324.0)
+[Good resource on making bridges without pcbs](https://highvoltageforum.net/index.php?topic=1324.0)
 
 ![SCHEM](https://github.com/NebulaXaD/UD_InductionHeater/blob/main/pics/schematic.png)
 
